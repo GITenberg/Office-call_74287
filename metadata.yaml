@@ -1,0 +1,34 @@
+_repo: Office-call_74287
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fritch, Charles E.
+    birthdate: 1927
+    deathdate: 2012
+    gutenberg_agent_id: '33342'
+    url: http://www.gutenberg.org/2009/agents/33342
+    wikipedia: https://en.wikipedia.org/wiki/Charles_E._Fritch
+description: ''
+gutenberg_issued: '2024-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74287'
+language: en
+pgterms:marc905: 20240317132647fritch
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Psychiatrists -- Fiction'
+- !lcsh 'Mathematicians -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Office call
+url: http://www.gutenberg.org/ebooks/74287
